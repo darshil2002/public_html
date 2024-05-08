@@ -1534,9 +1534,7 @@ preloader
 .slide {
     display: none;
 }
-.btn{
-    /* box-shadow: none !important; */
-}
+
 
 .active {
     display: flex;
